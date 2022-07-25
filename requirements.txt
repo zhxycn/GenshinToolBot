@@ -1,0 +1,4 @@
+coloredlogs
+Pyrogram>=2.0
+PyYAML
+TgCrypto
